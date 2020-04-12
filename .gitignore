@@ -1,2 +1,4 @@
 /build
 /.gradle
+/src/main/.DS_Store
+/src/main/resources/spinnaker-event-plugin.2020-04-11.private-key.der
